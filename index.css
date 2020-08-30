@@ -31,6 +31,12 @@ header li {
 section {
     height: 100%;
     background-position: center;
+    background-size: cover;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
 }
 header a {
     text-decoration: none;
