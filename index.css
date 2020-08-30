@@ -64,8 +64,9 @@ img.microphone{
   height: 200px;
   width: 30%;
   font-size: 2em;
+  font-family: 'Actor';
   padding-left: 40px;
-  color: rgb(162, 171, 179);
+  color: rgb(108, 129, 148);
 }
 section #about {
     background-image: url(profile.img)
