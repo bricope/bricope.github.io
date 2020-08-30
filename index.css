@@ -125,7 +125,7 @@ img.microphone{
   .author {color: cornflowerblue;}
 
   #description {
-      position: fixed;
+      position: absolute;
       height: 200px;
       width: 30%;
       top: 50%;
