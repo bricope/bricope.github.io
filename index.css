@@ -45,17 +45,14 @@ section {
     text-align: center;
     padding-top: 70px;
 }
-img.microphone{
-    padding-top: 40px;
-}
 #name-title h1 {
   text-align: center;
-  font-size: 8em;
+  font-size: 6em;
   font-family: 'Actor';
 }
 #name-title h2 {
   text-align: center;
-  font-size: 6em;
+  font-size: 4em;
   font-family: 'Actor';
   padding-top: 30px;
 }
@@ -68,6 +65,9 @@ img.microphone{
   padding-left: 40px;
   color: rgb(108, 129, 148);
 }
-section #about {
-    background-image: url(profile.img)
+#profile-pic img {
+
+}
+img.microphone{
+  padding-top: 40px;
 }
