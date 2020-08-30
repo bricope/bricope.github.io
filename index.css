@@ -45,6 +45,11 @@ header a {
 header a:hover {
     color: rgb(67, 70, 83);
 }
+
+img.microphone{
+    padding-top: 40px;
+}
+
 /* Slideshow container */
 .slideshow-container {
     position: relative;
