@@ -118,3 +118,8 @@ header a:hover {
   
   /* Add a blue color to the author */
   .author {color: cornflowerblue;}
+
+  #description {
+      height: 200px;
+      width: 30%;
+  }
