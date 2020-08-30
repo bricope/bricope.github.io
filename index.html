@@ -36,8 +36,7 @@
     <section id="testimonials">
         <h1>Testimonials</h1>
         <script>
-            var slideIndex = 1;
-            showSlides(slideIndex);
+            
 
             function plusSlides(n) {
             showSlides(slideIndex += n);
@@ -62,6 +61,11 @@
             slides[slideIndex-1].style.display = "block";
             dots[slideIndex-1].className += " active";
             }
+
+            window.addEventListener('DOMContentLoaded', (event) => {
+                var slideIndex = 1;
+                showSlides(slideIndex);
+            });
         </script>
         <div class="slideshow-container">
 
@@ -92,8 +96,6 @@
             <span class="dot" onclick="currentSlide(2)"></span>
             <span class="dot" onclick="currentSlide(3)"></span>
           </div>
-        
-
     </section>
     <section id="contact">
         <div class="container">
