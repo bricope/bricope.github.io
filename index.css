@@ -47,7 +47,6 @@ header a:hover {
 }
 /* Slideshow container */
 .slideshow-container {
-    top: 20px;
     position: relative;
     background: #f1f1f1f1;
   }
@@ -55,7 +54,7 @@ header a:hover {
   /* Slides */
   .mySlides {
     display: none;
-    padding: 150px;
+    padding: 80px;
     text-align: center;
   }
   
