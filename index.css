@@ -1,5 +1,6 @@
 html {
     scroll-behavior: smooth;
+    background-color: rgb(65, 70, 75);
 }
 * {
     margin: 0;
