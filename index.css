@@ -18,3 +18,12 @@ header {
     height: 50px;
     line-height: 50px;
 }
+header * {
+    display: inline;
+}
+header ul {
+    padding: 0;
+}
+header li {
+    margin-left: 20px;
+}
