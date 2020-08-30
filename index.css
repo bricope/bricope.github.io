@@ -122,4 +122,6 @@ header a:hover {
   #description {
       height: 200px;
       width: 30%;
+      font-size: 14em;
+      padding-left: 40px;
   }
