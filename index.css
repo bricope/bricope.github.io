@@ -32,3 +32,10 @@ section {
     height: 100%;
     background-position: center;
 }
+header a {
+    text-decoration: none;
+    color: rgb(244, 248, 255);
+}
+header a:hover {
+    color: rgb(67, 70, 83);
+}
