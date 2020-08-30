@@ -50,12 +50,12 @@ img.microphone{
 }
 #name-title h1 {
   text-align: center;
-  font-size: large;
+  font-size: 14em;
   font-family: 'Actor';
 }
 #name-title h2 {
   text-align: center;
-  font-size: medium;
+  font-size: 10em;
   font-family: 'Actor';
   padding-top: 30px;
 }
