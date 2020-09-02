@@ -21,11 +21,9 @@ nav ul {
   padding: 0;
   list-style: none;
 }
-header ul {
-    padding: 0;
-}
-header li {
-    margin-left: 20px;
+nav li {
+  display: inline-block;
+  margin-left: 20px;
 }
 header a {
   text-decoration: none;
