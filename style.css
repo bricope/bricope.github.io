@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    background-color: #d1deec;
+    background-color: #486b8b;
 }
 /* nav bar */
 header {
@@ -27,7 +27,7 @@ nav li {
 }
 header a {
   text-decoration: none;
-  color: rgb(244, 248, 255);
+  color: #CBB9A8;
   font-family: 'Raleway';
 }
 header a:hover {
@@ -48,12 +48,14 @@ section {
 #name-title h1 {
   text-align: center;
   font-size: 6em;
+  color: #CBB9A8;
   font-family: 'Raleway';
 }
 #name-title h2 {
   text-align: center;
   font-size: 4em;
   font-family: 'Raleway';
+  color: #CBB9A8;
   padding-top: 30px;
 }
 #description {
@@ -63,7 +65,7 @@ section {
   font-size: 2em;
   font-family: 'Raleway';
   padding-left: 40px;
-  color: rgb(108, 129, 148);
+  color: #CBB9A8;
 }
 #profile-pic img {
   position: absolute;
