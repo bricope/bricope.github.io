@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    background-color: #677888;
+    background-color: #556b80;
     font-family: 'Poppins';
 }
 /* nav bar */
@@ -12,7 +12,7 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
-    background: #6085a3;
+    background: #1F271B;
 }
 nav {
   float: left;
@@ -25,10 +25,14 @@ nav ul {
 nav li {
   display: inline-block;
   margin-left: 80px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
 }
 header a {
   text-decoration: none;
-  color: #CBB9A8;
+  text-transform: uppercase;
+  color: #c0a78f;
 }
 header a:hover {
   color: rgb(67, 70, 83);
