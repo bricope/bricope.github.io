@@ -28,6 +28,11 @@ nav li {
   /* padding-top: 10px; */
   padding-bottom: 10px;
 }
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
 header a {
   text-decoration: none;
   text-transform: uppercase;
