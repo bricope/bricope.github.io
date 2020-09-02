@@ -11,7 +11,10 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
-    background-color: rgb(155, 170, 182);
+    background: #8898a5;
+}
+nav {
+  float: left;
 }
 header * {
     display: inline;
@@ -29,6 +32,8 @@ header a {
 header a:hover {
   color: rgb(67, 70, 83);
 }
+
+
 section {
     height: 100% - 10px;
     background-position: center;
