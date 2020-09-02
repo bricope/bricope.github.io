@@ -36,6 +36,12 @@ header a {
 header a:hover {
   color: #9b7752;
 }
+nav a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  
+}
 
 
 section {
