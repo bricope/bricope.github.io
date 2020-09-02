@@ -28,6 +28,7 @@ nav li {
 header a {
   text-decoration: none;
   color: rgb(244, 248, 255);
+  font-family: 'Raleway';
 }
 header a:hover {
   color: rgb(67, 70, 83);
@@ -47,12 +48,12 @@ section {
 #name-title h1 {
   text-align: center;
   font-size: 6em;
-  font-family: 'Actor';
+  font-family: 'Raleway';
 }
 #name-title h2 {
   text-align: center;
   font-size: 4em;
-  font-family: 'Actor';
+  font-family: 'Raleway';
   padding-top: 30px;
 }
 #description {
@@ -60,7 +61,7 @@ section {
   height: 200px;
   width: 30%;
   font-size: 2em;
-  font-family: 'Actor';
+  font-family: 'Raleway';
   padding-left: 40px;
   color: rgb(108, 129, 148);
 }
