@@ -46,7 +46,7 @@ nav a::before {
   content: '';
   display: block;
   height: 5px;
-  background-color: #CBB9A8;
+  background-color: #81756a;
 
   position: absolute;
   top: 0;
