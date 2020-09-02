@@ -34,13 +34,20 @@ header a {
   color: #CBB9A8;
 }
 header a:hover {
-  color: #9b7752;
+  color: #81756a;
 }
 nav a::before {
   content: '';
   display: block;
   height: 5px;
-  
+  background-color: #CBB9A8;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+}
+nav a:hover::before {
+  width: 100%;
 }
 
 
