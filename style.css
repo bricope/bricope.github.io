@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
-    background-color: #486b8b;
+    background-color: #677888;
+    font-family: 'Poppins';
 }
 /* nav bar */
 header {
@@ -28,7 +29,6 @@ nav li {
 header a {
   text-decoration: none;
   color: #CBB9A8;
-  font-family: 'Poppins';
 }
 header a:hover {
   color: rgb(67, 70, 83);
@@ -49,12 +49,10 @@ section {
   text-align: center;
   font-size: 6em;
   color: #CBB9A8;
-  font-family: 'Poppins';
 }
 #name-title h2 {
   text-align: center;
   font-size: 4em;
-  font-family: 'Poppins';
   color: #CBB9A8;
   padding-top: 30px;
 }
@@ -63,7 +61,6 @@ section {
   height: 200px;
   width: 30%;
   font-size: 2em;
-  font-family: 'Poppins';
   padding-left: 40px;
   color: #CBB9A8;
 }
