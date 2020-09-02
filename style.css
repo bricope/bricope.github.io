@@ -2,6 +2,7 @@ html {
     scroll-behavior: smooth;
     background-color: #556b80;
     font-family: 'Poppins';
+    color: #CBB9A8;
 }
 /* nav bar */
 header {
@@ -37,7 +38,7 @@ header::after {
 header a {
   text-decoration: none;
   text-transform: uppercase;
-  color: #CBB9A8;
+  
 }
 header a:hover {
   color: #81756a;
@@ -55,8 +56,6 @@ nav a::before {
 nav a:hover::before {
   width: 100%;
 }
-
-
 section {
     height: 100% - 10px;
     background-position: center;
@@ -70,12 +69,10 @@ section {
 #name-title h1 {
   text-align: center;
   font-size: 6em;
-  color: #CBB9A8;
 }
 #name-title h2 {
   text-align: center;
   font-size: 4em;
-  color: #CBB9A8;
   padding-top: 30px;
 }
 #description {
@@ -84,7 +81,6 @@ section {
   width: 30%;
   font-size: 2em;
   padding-left: 40px;
-  color: #CBB9A8;
 }
 #profile-pic img {
   position: absolute;
