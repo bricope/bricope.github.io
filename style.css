@@ -38,7 +38,7 @@ header::after {
 header a {
   text-decoration: none;
   text-transform: uppercase;
-  
+  color: #CBB9A8;
 }
 header a:hover {
   color: #81756a;
