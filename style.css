@@ -12,7 +12,7 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
-    background: #1F271B;
+    background: #6085a3;
 }
 nav {
   float: left;
@@ -27,7 +27,6 @@ nav li {
   margin-left: 80px;
   padding-top: 10px;
   padding-bottom: 10px;
-  position: relative;
 }
 header a {
   text-decoration: none;
