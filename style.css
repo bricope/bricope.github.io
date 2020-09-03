@@ -76,6 +76,9 @@ section {
   clear: both;
   display: table;
 }
+
+
+
 #name-title h1 {
   text-align: center;
   font-size: 6em;
@@ -92,9 +95,9 @@ section {
   font-size: 2em;
   padding-left: 40px;
 }
-#profile-pic img {
+/* #profile-pic img {
   position: absolute;
-}
+} */
 img.microphone{
   padding-top: 40px;
 }
