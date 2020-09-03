@@ -79,6 +79,9 @@ section {
 #about-container {
   color:  #48627ac7;
 }
+#about-container h2 {
+  text-align: left;
+}
 
 #description {
   padding-top: 250px;
