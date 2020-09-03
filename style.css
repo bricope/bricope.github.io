@@ -16,7 +16,7 @@ header {
     background: #384d5f;
 }
 nav {
-  float: left;
+  float: right;
 }
 nav ul {
   margin: 0;
@@ -28,6 +28,9 @@ nav li {
   margin-left: 80px;
   padding-bottom: 10px;
   position: relative;
+}
+nav li #name {
+  float:left;
 }
 header::after {
   content: '';
