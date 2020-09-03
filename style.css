@@ -31,7 +31,7 @@ nav li {
   position: relative;
 }
 nav li #name {
-  float:left;
+  /* float:left; */
 }
 header::after {
   content: '';
