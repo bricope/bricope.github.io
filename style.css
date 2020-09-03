@@ -91,6 +91,7 @@ section #about {
 }
 #about img {
   float: right;
+  border-radius: 50%;
 }
 
 #description {
