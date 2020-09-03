@@ -24,7 +24,8 @@ nav ul {
   list-style: none;
 }
 nav li {
-  display: inline-block;
+  float: right;
+  /*display: inline-block;*/
   margin-left: 80px;
   padding-bottom: 10px;
   position: relative;
