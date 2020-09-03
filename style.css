@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    background-color: #556b80;
+    /*background-color: #556b80;*/
     font-family: 'Poppins';
     color: #CBB9A8;
 }
@@ -64,6 +64,9 @@ section {
     align-items: center;
     text-align: center;
     padding-top: 70px;
+}
+section #about {
+  background-color: #556b80;;
 }
 /*column for description*/
 .column {
