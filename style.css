@@ -16,7 +16,6 @@ header {
     background: #384d5f;
 }
 nav {
-  float: right;
   overflow: hidden;
 }
 nav ul {
@@ -24,15 +23,15 @@ nav ul {
   padding: 0;
   list-style: none;
 }
+nav li #name {
+  float:left;
+}
 nav li {
   float: right;
   /*display: inline-block;*/
   margin-left: 80px;
   padding-bottom: 10px;
   position: relative;
-}
-nav li #name {
-  float:right;
 }
 header::after {
   content: '';
@@ -64,7 +63,6 @@ nav a:hover::before {
 
 section {
     background-size: cover;
-    height: 100vh - 50px;
     justify-content: center;
     align-items: center;
     text-align: center;
