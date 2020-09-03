@@ -78,16 +78,16 @@ section {
 }
 #about-container {
   background-color:  #c4d4e4;
-  padding: 20% 20%;
+  padding: 50px 50px;
 }
 #about-container h2 {
   text-align: left;
 }
 
 #description {
-  padding-top: 250px;
-  height: 200px;
-  width: 30%;
+  padding-top: 200px;
+  /* height: 200px;
+  width: 30%; */
   font-size: 2em;
   padding-left: 40px;
 }
