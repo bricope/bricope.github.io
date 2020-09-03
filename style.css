@@ -100,7 +100,7 @@ section #about {
   padding-left: 40px;
 }
 #profile-pic img {
-  /* position: relative; */
+  position: absolute;
 }
 img.microphone{
   padding-top: 40px;
