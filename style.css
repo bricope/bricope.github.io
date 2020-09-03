@@ -32,7 +32,7 @@ nav li {
   position: relative;
 }
 nav li #name {
-  float:left;
+  float:right;
 }
 header::after {
   content: '';
@@ -60,6 +60,8 @@ nav a::before {
 nav a:hover::before {
   width: 100%;
 }
+
+
 section {
     background-size: cover;
     height: 100vh - 50px;
