@@ -91,7 +91,7 @@ section {
   padding-left: 40px;
 }
 #profile-pic img {
-  position: absolute;
+  position: relative;
 }
 img.microphone{
   padding-top: 40px;
