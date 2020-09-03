@@ -57,11 +57,11 @@ nav a:hover::before {
 }
 section {
     background-size: cover;
-    height: 100vh;
+    height: 100vh - 50px;
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding-top: 70px;
+    padding-top: 50px;
 }
 section #about {
   background-color: #556b80;;
