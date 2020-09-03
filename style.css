@@ -17,6 +17,7 @@ header {
 }
 nav {
   float: right;
+  overflow: hidden;
 }
 nav ul {
   margin: 0;
@@ -31,7 +32,7 @@ nav li {
   position: relative;
 }
 nav li #name {
-  /* float:left; */
+  float:left;
 }
 header::after {
   content: '';
@@ -99,7 +100,7 @@ section #about {
   padding-left: 40px;
 }
 #profile-pic img {
-  position: relative;
+  /* position: relative; */
 }
 img.microphone{
   padding-top: 40px;
